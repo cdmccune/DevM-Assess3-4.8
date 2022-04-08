@@ -6,7 +6,12 @@ body {
   margin: 2rem auto;
   font-family: "Open Sans", sans-serif;
 }
-
+.favorites {
+	width: 100px;
+	margin-right:31px;
+	margin-left:31px;
+	background-color: rgb(223, 223, 113);
+}
 
 nav {
 	border-bottom: 2px solid orange;

@@ -5,6 +5,7 @@
     width:60vw;
     height: 80vh;
     /* justify-content: space-around; */
+
     
 
 }
@@ -22,11 +23,11 @@
     margin:2px;
     width: 20vw;
     height: 20vh;
-    /* border: 1px solid black */
+    border: 1px solid black
 }
 .lists {
     font-size: 25px;
-    /* border: 1px solid black; */
+    border: 1px solid black;
     text-align:center;
     width: 30vw;
 }
