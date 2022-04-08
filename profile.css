@@ -1,0 +1,42 @@
+
+
+#rows {
+    /* display: flex; */
+    width:60vw;
+    height: 80vh;
+    /* justify-content: space-around; */
+    
+
+}
+.topics {
+    height: 25vh;
+    width: 40vw;
+    margin-bottom:5vh;
+}
+.content {
+    display: flex;
+    justify-content: space-evenly;
+    width: 60vw;
+}
+.text{
+    margin:2px;
+    width: 20vw;
+    height: 20vh;
+    /* border: 1px solid black */
+}
+.lists {
+    font-size: 25px;
+    /* border: 1px solid black; */
+    text-align:center;
+    width: 30vw;
+}
+
+/* #skills {
+    
+}
+#interests {
+
+}
+#careerGoals {
+
+} */
